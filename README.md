@@ -1,4 +1,4 @@
-# dummy_repo
+# MIP supported RiverML
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
